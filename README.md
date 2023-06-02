@@ -7,3 +7,5 @@
 
 # Aviso
 1. So funciona na forge
+2. Caso queira o [Vape V4.10](https://github.com/jet2tlf/i-accidentally-broke-my-left-testicle)
+3. Caso queira o [Vape Lite](https://github.com/jet2tlf/i-accidentally-broke-my-left-testicle/tree/lite)
